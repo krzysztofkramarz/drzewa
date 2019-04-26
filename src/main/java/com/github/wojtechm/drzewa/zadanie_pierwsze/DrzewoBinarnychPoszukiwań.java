@@ -1,6 +1,7 @@
 package com.github.wojtechm.drzewa.zadanie_pierwsze;
 
 /**
+ * BST Binary Search Tree
  * @author Makiela Wojciech
  */
 class DrzewoBinarnychPoszukiwań {
